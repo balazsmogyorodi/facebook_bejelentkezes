@@ -1,0 +1,77 @@
+main {
+
+
+}
+
+header {
+display: grid;
+grid-template-columns: 2.5fr 1fr;
+background-color: cornflowerblue;
+color: white;
+margin-top: -10px;
+margin-left: -8px;
+margin-right: -8px;
+}
+
+.bekero {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 30px;
+}
+
+.cim {
+padding-left: 80px;
+font-size: 26px;
+margin-top: 5px;
+
+
+}
+
+.bejelentkezes {
+background-color: dodgerblue;
+color: white;
+font-weight: bolder;
+border: 1px solid darkblue;
+}
+
+
+article {
+    display: grid;
+    grid-template-columns: 2.2fr 1fr;
+    width: 90%;
+    margin-left: auto;
+ 
+
+
+}
+
+.hossz {
+
+    width: 315px;
+}
+
+input {
+
+    padding: 8px;
+    margin: 5px;
+}
+
+.szul {
+font-size: 24px;
+
+}
+
+
+.regisztralas {
+
+background-color: lightgreen;
+color: white;
+font-weight: bolder;
+font-size: 20px;
+height: fit-content;
+border: 1px solid black;
+text-align: center;
+width: 200px;
+
+
+}
